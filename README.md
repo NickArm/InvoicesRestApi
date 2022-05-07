@@ -6,21 +6,22 @@ https://github.com/NickArm/InvoicesRestApi
 
 <h2>Tasks (Features) Completed:</h2>
 
-Get Single Invoice</br>
-<https://invoices.letsrock.gr/v1/controller/invoice.php?invoiceid="2c92a0ae743576fb01744f3f2ac04aa8">
+<ul>
+<li>Get Single Invoice</br>
+<https://invoices.letsrock.gr/v1/controller/invoice.php?invoiceid="2c92a0ae743576fb01744f3f2ac04aa8"></li>
 
-Get Multiple Invoices</br>
-<a href='https://invoices.letsrock.gr/v1/controller/invoice.php?invoiceid="2c92a09a7448f4750174509e902934a0","2c92a099743576ec0174509e9a0030f5"'>https://invoices.letsrock.gr/v1/controller/invoice.php?invoiceid="2c92a09a7448f4750174509e902934a0","2c92a099743576ec0174509e9a0030f5"</a>
+<li>Get Multiple Invoices</br>
+<https://invoices.letsrock.gr/v1/controller/invoice.php?invoiceid="2c92a09a7448f4750174509e902934a0","2c92a099743576ec0174509e9a0030f5"></li>
 
-Get Invoices using date filters</br>
-<a href='https://invoices.letsrock.gr/v1/controller/invoice.php?date_from="2020-09-02"&date_to="2020-09-04"'>https://invoices.letsrock.gr/v1/controller/invoice.php?date_from="2020-09-02"&date_to="2020-09-04"</a>
+<li>Get Invoices using date filters</br>
+<https://invoices.letsrock.gr/v1/controller/invoice.php?date_from="2020-09-02"&date_to="2020-09-04"></li>
 
-Get All Invoices</br>
-<a href='https://invoices.letsrock.gr/v1/controller/invoice.php'>https://invoices.letsrock.gr/v1/controller/invoice.php</a>
+<li>Get All Invoices</br>
+<https://invoices.letsrock.gr/v1/controller/invoice.php></li>
 
 
-Store all requests in mySQL DB
-
+<li>Store all requests in mySQL DB</li>
+</ul>
 
 
 **Extra Features
