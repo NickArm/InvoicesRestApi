@@ -28,5 +28,5 @@ Option for Caching
 
 
 <h2>For testing and reporting were used</h2>
-Postman:  <https://www.postman.com/armenisnick/workspace/invoices/collection/7964667-a7515d0b-a464-4beb-82ee-8ad7d560a86a></br>
-Newman Report : <https://invoices.letsrock.gr/invoices_api.html>
+Postman:  https://www.postman.com/armenisnick/workspace/invoices/collection/7964667-a7515d0b-a464-4beb-82ee-8ad7d560a86a </br>
+Newman Report : https://invoices.letsrock.gr/invoices_api.html
