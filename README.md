@@ -7,7 +7,7 @@ https://github.com/NickArm/InvoicesRestApi
 <h2>Tasks (Features) Completed:</h2>
 
 Get Single Invoice</br>
-<a href='https://invoices.letsrock.gr/v1/controller/invoice.php?invoiceid="2c92a0ae743576fb01744f3f2ac04aa8"'>https://invoices.letsrock.gr/v1/controller/invoice.php?invoiceid="2c92a0ae743576fb01744f3f2ac04aa8"</a>
+<https://invoices.letsrock.gr/v1/controller/invoice.php?invoiceid="2c92a0ae743576fb01744f3f2ac04aa8">
 
 Get Multiple Invoices</br>
 <a href='https://invoices.letsrock.gr/v1/controller/invoice.php?invoiceid="2c92a09a7448f4750174509e902934a0","2c92a099743576ec0174509e9a0030f5"'>https://invoices.letsrock.gr/v1/controller/invoice.php?invoiceid="2c92a09a7448f4750174509e902934a0","2c92a099743576ec0174509e9a0030f5"</a>
