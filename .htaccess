@@ -1,0 +1,4 @@
+Options +FollowSymLinks
+RewriteEngine on
+RewriteRule ^v1/controller/invoice/(.*) /v1/controller/invoice.php?invoiceid=$1
+RewriteRule ^v1/controller/invoices/(.*) /v1/controller/invoice.php
