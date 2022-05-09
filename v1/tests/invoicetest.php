@@ -9,5 +9,5 @@ try{
 	
 }
 catch(InvoiceException $error){
-	echo "Error: ". $error->getMessage();;
+	echo "Error: ". $error->getMessage();
 }

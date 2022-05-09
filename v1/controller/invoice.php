@@ -107,7 +107,7 @@ elseif(empty($_GET)){
 	$dateto = $_GET['date_to'];
 	
 	try{
-			$query = $maindb -> prepare('select invoice_id, amount, currency, invoice_date, is_paid from invoices where invoice_date > '. $datefrom. ' and invoice_date < '. $dateto);
+			$query = $maindb -> prepare('select invoice_id, amount, currency, invoice_date, is_paid from invoices where invoice_date >= '. $datefrom. ' and invoice_date <= '. $dateto);
 			$query->execute();
 			$rowCount = $query->rowCount();
 			
