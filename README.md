@@ -7,11 +7,11 @@ https://github.com/NickArm/InvoicesRestApi
 <h2>Tasks (Features) Completed:</h2>
 
 Get Single Invoice </br>
-<https://invoices.letsrock.gr/v1/controller/invoice.php?invoiceid="2c92a0ae743576fb01744f3f2ac04aa8">
+<https://invoices.letsrock.gr/v1/controller/invoice.php?invoiceid="2c92a0ae743576fb01744f3f2ac04aa8"></br>
 <https://invoices.letsrock.gr/v1/controller/invoice/"2c92a0ae743576fb01744f3f2ac04aa8">
 
 Get Multiple Invoices</br>
-<https://invoices.letsrock.gr/v1/controller/invoice.php?invoiceid="2c92a09a7448f4750174509e902934a0","2c92a099743576ec0174509e9a0030f5">
+<https://invoices.letsrock.gr/v1/controller/invoice.php?invoiceid="2c92a09a7448f4750174509e902934a0","2c92a099743576ec0174509e9a0030f5"></br>
 <https://invoices.letsrock.gr/v1/controller/invoice/"2c92a09a7448f4750174509e902934a0","2c92a099743576ec0174509e9a0030f5">
 
 
@@ -21,7 +21,7 @@ Get Invoices using date filters</br>
 
 
 Get All Invoices</br>
-<https://invoices.letsrock.gr/v1/controller/invoice.php>
+<https://invoices.letsrock.gr/v1/controller/invoice.php></br>
 <https://invoices.letsrock.gr/v1/controller/invoices/>
 
 Store all requests in mySQL DB
